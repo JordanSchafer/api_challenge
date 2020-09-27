@@ -1,6 +1,6 @@
 # api_challenge
 
-###Purpose
+### Purpose
 
 1) Give practice using api's, in this case openweatherapi and google maps api.
 2) Give practice of plotting real world a data.
